@@ -1,24 +1,99 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Wanderson!+%F0%9F%91%8B;Desenvolvedor+Web+iniciante;Apaixonado+por+HTML%2C+CSS+e+JavaScript" alt="Typing SVG" />
+  <!-- Banner superior (substitua SEU_LINK_DE_BANNER_OU_GIF pela imagem/GIF que você escolher) -->
+  <img src="SEU_LINK_DE_BANNER_OU_GIF" alt="Banner Wanderson Silva Almeida" width="100%" height="220" />
+
+  <br><br>
+
+  <!-- Saudação animada estilo typing -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Wanderson!+%F0%9F%91%8B;Desenvolvedor+Web+em+evolu%C3%A7%C3%A3o;HTML5+%7C+CSS3+%7C+JavaScript" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-Sou **Wanderson Silva Almeida** (`@HATORIKILLER`), desenvolvedor iniciante focado em desenvolvimento web com **HTML**, **CSS** e **JavaScript**. Gosto de transformar ideias simples em interfaces limpas, responsivas e úteis no dia a dia[cite: 1].
+## 🧑‍💻 Sobre Mim
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=18&section=footer" width="100%"/>
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <p>Sou <strong>Wanderson Silva Almeida</strong> (<code>@HATORIKILLER</code>), desenvolvedor iniciante apaixonado por desenvolvimento web com <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>[cite: 1].</p>
+      <ul>
+        <li>💻 Construindo interfaces limpas, responsivas e funcionais para o dia a dia[cite: 1].</li>
+        <li>🎯 Focando em fundamentos de front-end, organização de código e boas práticas.</li>
+        <li>🚀 Evoluindo com projetos práticos como portfólios, aplicações web e telas interativas[cite: 1, 4].</li>
+        <li>📄 Currículo e certificados disponíveis abaixo para recrutadores.</li>
+      </ul>
+      <p><strong>Conecte-se comigo:</strong></p>
+      <p>
+        <a href="https://www.linkedin.com/in/wanderson-silva-almeida-60639414b" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="mailto:wandersonhatori@hotmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail" />
+        </a>
+        <a href="https://hatorikiller.github.io/Portifolio3/" target="_blank">
+          <img src="https://img.shields.io/badge/Portf%C3%B3lio-1F6FEB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" />
+        </a>
+      </p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <!-- Ilustração ou GIF lateral (substitua SEU_GIF_LATERAL pelo link ou caminho no repo) -->
+      <img src="SEU_GIF_LATERAL" alt="Desenvolvedor codando" width="240" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Habilidades & Ferramentas
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&perline=6" alt="Ícones de Habilidades" />
+
+  <br><br>
+
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+* 🌐 **[Portfólio 3](https://hatorikiller.github.io/Portifolio3/)** — Portfólio online para acompanhar minha evolução no desenvolvimento front-end[cite: 1].
+* 🧾 **[Meu Perfil Profissional](https://github.com/HATORIKILLER/Meu-Perfil-Profissional)** — Apresentação visual clara e funcional de habilidades construída com HTML e CSS[cite: 1].
+* 🧮 **[Calculadora de Gorjeta](https://github.com/HATORIKILLER/Calculadora-de-Gorjeta)** — Aplicação prática feita com HTML, CSS e JavaScript para calcular gorjetas em bares e restaurantes[cite: 1].
+* 📇 **[Projeto Lista de Contatos Corporativos](https://github.com/HATORIKILLER/Projeto-lista-de-contatos-corporativos)** — Interface organizada com HTML, CSS e JavaScript para exibir contatos de equipes ou departamentos[cite: 1].
+* 🔐 **[Tela de Login](https://github.com/HATORIKILLER/TELA-DE-LOGIN)** — Projeto de interface de autenticação desenvolvido para praticar estrutura, estilo e interatividade web.
+
+---
+
+## 📊 Estatísticas no GitHub
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=HATORIKILLER&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HATORIKILLER&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Linguagens mais usadas" />
+
+</div>
+
+---
 
 ## 📄 Currículo & Certificados
 
 <div align="center">
 
-  <a href="https://github.com/HATORIKILLER/HATORIKILLER/blob/main/Curriculo_Wanderson_Silva_Almeida%20(3).pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Acessar_Currículo_(PDF)-1f6feb?style=for-the-badge" alt="Acessar Currículo" />
+  <a href="LINK_DO_SEU_CURRICULO_PDF" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%93%84_Acessar_Curr%C3%ADculo_(PDF)-1F6FEB?style=for-the-badge" alt="Acessar Currículo" />
   </a>
-  <a href="https://github.com/HATORIKILLER/HATORIKILLER/blob/main/Certificados%20.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/🎓_Ver_Todos_os_Certificados-238636?style=for-the-badge" alt="Ver Certificados" />
+  <a href="LINK_DA_PASTA_OU_REPOSITORIO_DE_CERTIFICADOS" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%93_Ver_Certificados-238636?style=for-the-badge" alt="Ver Certificados" />
   </a>
 
 </div>
@@ -26,49 +101,23 @@ Sou **Wanderson Silva Almeida** (`@HATORIKILLER`), desenvolvedor iniciante focad
 <br>
 
 <details>
-<summary><strong>🎓 Clique aqui para ver a lista de certificados</strong></summary>
+<summary><strong>🎓 Clique aqui para abrir a lista de certificados</strong></summary>
 
 <br>
 
-* 📜 [Intituição Alura](https://hatorikiller.github.io/Portifolio3/assets/pdf/Certificados%20Alura%20(2).pdf)
-* 📜 [Instituição Estacio](https://hatorikiller.github.io/Portifolio3/assets/video/Certificado%20Engenharia%20Corporativo%20Moderno%20Azul%20e%20Cinza.mp4)
-* 📜 [Instituição Senac](https://hatorikiller.github.io/Portifolio3/assets/pdf/ilovepdf_merged%20(1).pdf)
+* 📜 [Certificado 1 — Nome do Curso / Instituição](LINK_CERTIFICADO_1)
+* 📜 [Certificado 2 — Nome do Curso / Instituição](LINK_CERTIFICADO_2)
+* 📜 [Certificado 3 — Nome do Curso / Instituição](LINK_CERTIFICADO_3)
 
 </details>
 
-
-## 🛠️ Tecnologias & Ferramentas
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=18&section=footer" width="100%"/>
-
-## 📌 Projetos em Destaque
-
-* **[Meu Perfil Profissional](https://github.com/HATORIKILLER/Meu-Perfil-Profissional)** — Apresentação visual clara e funcional das minhas habilidades com HTML e CSS.
-* **[Calculadora de Gorjeta](https://github.com/HATORIKILLER/Calculadora-de-Gorjeta)** — Aplicação prática feita com HTML, CSS e JavaScript para calcular gorjetas em bares e restaurantes.
-* **[Projeto Lista de Contatos Corporativos](https://github.com/HATORIKILLER/Projeto-lista-de-contatos-corporativos)** — Interface organizada com HTML, CSS e JavaScript para exibir contatos de equipes ou departamentos.
-* **[Portfólio 3](https://hatorikiller.github.io/Portifolio3/)** — Meu portfólio publicado para acompanhar minha evolução no front-end.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=18&section=footer" width="100%"/>
-
-## 📊 Evolução no GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HATORIKILLER&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HATORIKILLER&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Linguagens mais usadas" />
-</div>
-
 ---
 
-## 📫 Contato
+<div align="center">
 
-* 📧 **E-mail:** [wandersonhatori@gmail.com](wandersonhatori@gmail.com)
-* 💼 **LinkedIn:** [Wanderson Silva Almeida](https://www.linkedin.com/in/wanderson-silva-almeida-60639414b)
-* 🌐 **Portfólio Web:** [hatorikiller.github.io/Portifolio3](https://hatorikiller.github.io/Portifolio3/)
-* 📱 **Telefone Whatsapp:** [Contato direto](https://api.whatsapp.com/send/?phone=%2B5511993409363&text&type=phone_number&app_absent=0)
+  <!-- Banner ou onda final (substitua SEU_BANNER_FINAL pelo link ou imagem escolhida) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=110&section=footer" width="100%" alt="Rodapé decorativo" />
 
+  <p><em>"A consistência no código diário transforma ideias simples em soluções reais."</em></p>
+
+</div>
