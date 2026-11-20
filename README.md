@@ -39,7 +39,7 @@
     </td>
     <td width="35%" align="center" valign="middle">
       <!-- Ilustração ou GIF lateral (substitua SEU_GIF_LATERAL pelo link ou caminho no repo) -->
-      <img src="(https://github.com/HATORIKILLER/HATORIKILLER/blob/main/7f3fd979d14472f82750922dffe90885.jpg)" alt="Desenvolvedor codando" width="240" />
+      <img src="https://github.com/HATORIKILLER/HATORIKILLER/blob/main/7f3fd979d14472f82750922dffe90885.jpg" alt="Desenvolvedor codando" width="240" />
     </td>
   </tr>
 </table>
