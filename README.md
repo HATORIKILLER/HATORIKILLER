@@ -70,5 +70,5 @@ Sou **Wanderson Silva Almeida** (`@HATORIKILLER`), desenvolvedor iniciante focad
 * 📧 **E-mail:** [wandersonhatori@gmail.com](wandersonhatori@gmail.com)
 * 💼 **LinkedIn:** [Wanderson Silva Almeida](https://www.linkedin.com/in/wanderson-silva-almeida-60639414b)
 * 🌐 **Portfólio Web:** [hatorikiller.github.io/Portifolio3](https://hatorikiller.github.io/Portifolio3/)
-* 📱 **Telefone Whatsapp:** [Contato direto](https://wa.me/11993409363)
+* 📱 **Telefone Whatsapp:** [Contato direto](https://api.whatsapp.com/send/?phone=%2B5511993409363&text&type=phone_number&app_absent=0)
 
