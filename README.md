@@ -49,10 +49,10 @@ Sou **Wanderson Silva Almeida** (`@HATORIKILLER`), desenvolvedor iniciante focad
 
 ## 📌 Projetos em Destaque
 
-* **[Meu Perfil Profissional](https://github.com/HATORIKILLER/Meu-Perfil-Profissional)** — Apresentação visual clara e funcional das minhas habilidades com HTML e CSS[cite: 1].
-* **[Calculadora de Gorjeta](https://github.com/HATORIKILLER/Calculadora-de-Gorjeta)** — Aplicação prática feita com HTML, CSS e JavaScript para calcular gorjetas em bares e restaurantes[cite: 1].
-* **[Projeto Lista de Contatos Corporativos](https://github.com/HATORIKILLER/Projeto-lista-de-contatos-corporativos)** — Interface organizada com HTML, CSS e JavaScript para exibir contatos de equipes ou departamentos[cite: 1].
-* **[Portfólio 3](https://hatorikiller.github.io/Portifolio3/)** — Meu portfólio publicado para acompanhar minha evolução no front-end[cite: 1].
+* **[Meu Perfil Profissional](https://github.com/HATORIKILLER/Meu-Perfil-Profissional)** — Apresentação visual clara e funcional das minhas habilidades com HTML e CSS.
+* **[Calculadora de Gorjeta](https://github.com/HATORIKILLER/Calculadora-de-Gorjeta)** — Aplicação prática feita com HTML, CSS e JavaScript para calcular gorjetas em bares e restaurantes.
+* **[Projeto Lista de Contatos Corporativos](https://github.com/HATORIKILLER/Projeto-lista-de-contatos-corporativos)** — Interface organizada com HTML, CSS e JavaScript para exibir contatos de equipes ou departamentos.
+* **[Portfólio 3](https://hatorikiller.github.io/Portifolio3/)** — Meu portfólio publicado para acompanhar minha evolução no front-end.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=18&section=footer" width="100%"/>
 
@@ -67,6 +67,8 @@ Sou **Wanderson Silva Almeida** (`@HATORIKILLER`), desenvolvedor iniciante focad
 
 ## 📫 Contato
 
-* 📧 **E-mail:** [wandersonhatori@hotmail.com](mailto:wandersonhatori@hotmail.com)[cite: 1]
-* 💼 **LinkedIn:** [Wanderson Silva Almeida](https://www.linkedin.com/in/wanderson-silva-almeida-60639414b)[cite: 1]
-* 🌐 **Portfólio Web:** [hatorikiller.github.io/Portifolio3](https://hatorikiller.github.io/Portifolio3/)[cite: 1]
+* 📧 **E-mail:** [wandersonhatori@gmail.com](wandersonhatori@gmail.com)
+* 💼 **LinkedIn:** [Wanderson Silva Almeida](https://www.linkedin.com/in/wanderson-silva-almeida-60639414b)
+* 🌐 **Portfólio Web:** [hatorikiller.github.io/Portifolio3](https://hatorikiller.github.io/Portifolio3/)
+* 📱 **Telefone Whatsapp:** [Contato direto](https://wa.me/11993409363)
+
