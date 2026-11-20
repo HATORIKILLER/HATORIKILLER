@@ -14,7 +14,7 @@ Sou **Wanderson Silva Almeida** (`@HATORIKILLER`), desenvolvedor iniciante focad
 
 <div align="center">
 
-  <a href="https://github.com/HATORIKILLER/curriculo-e-certificados/blob/main/curriculo-wanderson-silva-almeida.pdf" target="_blank">
+  <a href="https://github.com/HATORIKILLER/HATORIKILLER/blob/main/Curriculo_Wanderson_Silva_Almeida%20(3).pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄_Acessar_Currículo_(PDF)-1f6feb?style=for-the-badge" alt="Acessar Currículo" />
   </a>
   <a href="https://github.com/HATORIKILLER/curriculo-e-certificados/tree/main/certificados" target="_blank">
