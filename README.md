@@ -19,9 +19,9 @@
     <td width="65%" valign="top">
       <p>Sou <strong>Wanderson Silva Almeida</strong> (<code>@HATORIKILLER</code>), desenvolvedor iniciante apaixonado por desenvolvimento web com <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>[cite: 1].</p>
       <ul>
-        <li>💻 Construindo interfaces limpas, responsivas e funcionais para o dia a dia[cite: 1].</li>
+        <li>💻 Construindo interfaces limpas, responsivas e funcionais para o dia a dia.</li>
         <li>🎯 Focando em fundamentos de front-end, organização de código e boas práticas.</li>
-        <li>🚀 Evoluindo com projetos práticos como portfólios, aplicações web e telas interativas[cite: 1, 4].</li>
+        <li>🚀 Evoluindo com projetos práticos como portfólios, aplicações web e telas interativas.</li>
         <li>📄 Currículo e certificados disponíveis abaixo para recrutadores.</li>
       </ul>
       <p><strong>Conecte-se comigo:</strong></p>
