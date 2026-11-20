@@ -89,10 +89,10 @@
 
 <div align="center">
 
-  <a href="LINK_DO_SEU_CURRICULO_PDF" target="_blank">
+  <a href="https://github.com/HATORIKILLER/HATORIKILLER/blob/main/Curriculo_Wanderson_Silva_Almeida%20(3).pdf" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%93%84_Acessar_Curr%C3%ADculo_(PDF)-1F6FEB?style=for-the-badge" alt="Acessar Currículo" />
   </a>
-  <a href="LINK_DA_PASTA_OU_REPOSITORIO_DE_CERTIFICADOS" target="_blank">
+  <a href="https://github.com/HATORIKILLER/HATORIKILLER/blob/main/Certificados%20.pdf" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%8E%93_Ver_Certificados-238636?style=for-the-badge" alt="Ver Certificados" />
   </a>
 
