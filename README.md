@@ -30,9 +30,9 @@ Sou **Wanderson Silva Almeida** (`@HATORIKILLER`), desenvolvedor iniciante focad
 
 <br>
 
-* 📜 [Certificado — Alura](https://hatorikiller.github.io/Portifolio3/assets/pdf/Certificados%20Alura%20(2).pdf)
-* 📜 [Nome do Curso ou Certificado 2 — Instituição](https://github.com/HATORIKILLER/curriculo-e-certificados/blob/main/certificados/certificado-2.pdf)
-* 📜 [Nome do Curso ou Certificado 3 — Instituição](https://github.com/HATORIKILLER/curriculo-e-certificados/blob/main/certificados/certificado-3.pdf)
+* 📜 [Intituição Alura](https://hatorikiller.github.io/Portifolio3/assets/pdf/Certificados%20Alura%20(2).pdf)
+* 📜 [Instituição Estacio](https://hatorikiller.github.io/Portifolio3/assets/video/Certificado%20Engenharia%20Corporativo%20Moderno%20Azul%20e%20Cinza.mp4)
+* 📜 [Instituição Senac](https://hatorikiller.github.io/Portifolio3/assets/pdf/ilovepdf_merged%20(1).pdf)
 
 </details>
 
