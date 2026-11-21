@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner superior (substitua SEU_LINK_DE_BANNER_OU_GIF pela imagem/GIF que você escolher) -->
-  <img src="https://github.com/HATORIKILLER/HATORIKILLER/blob/main/75c2f842863ae2df6b3ac2d0a4d63026.gif" alt="Banner Wanderson Silva Almeida" width="100%" height="220" />
+  <img src="https://github.com/HATORIKILLER/HATORIKILLER/blob/main/13de03a9036caad60021404b14976197.gif" alt="Banner Wanderson Silva Almeida" width="100%" height="220" />
 
   <br><br>
 
